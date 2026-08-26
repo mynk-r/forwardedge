@@ -1,0 +1,2 @@
+ticker,extracted_at,data
+TSLA,2026-08-22T00:00:00,"{""marketCap"": 299686974089.75275, ""trailingPE"": 34.06203525441579, ""forwardPE"": 11.57391310670086, ""priceToBook"": 5.793855056244187, ""returnOnEquity"": -0.0708365167895354, ""debtToEquity"": 128.83049116571476, ""profitMargins"": 0.12278379922956623, ""revenueGrowth"": 0.04255113505871558, ""dividendYield"": 0.00439122673710827, ""beta"": 1.073361032758345}"

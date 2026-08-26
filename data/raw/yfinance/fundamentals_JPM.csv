@@ -1,0 +1,2 @@
+ticker,extracted_at,data
+JPM,2026-08-22T00:00:00,"{""marketCap"": 445506885076.78143, ""trailingPE"": 15.052102949346025, ""forwardPE"": 32.80412227615592, ""priceToBook"": 3.1263235424091134, ""returnOnEquity"": 0.2289619619063976, ""debtToEquity"": 68.21613207276016, ""profitMargins"": 0.1119095575566441, ""revenueGrowth"": 0.016399736560224573, ""dividendYield"": 0.026801951936969725, ""beta"": 1.2492287584924433}"

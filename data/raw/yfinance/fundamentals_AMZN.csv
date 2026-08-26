@@ -1,0 +1,2 @@
+ticker,extracted_at,data
+AMZN,2026-08-22T00:00:00,"{""marketCap"": 1185626240192.3337, ""trailingPE"": 17.228863601732503, ""forwardPE"": 9.351887847628428, ""priceToBook"": 7.263515491985665, ""returnOnEquity"": 0.1149967280476222, ""debtToEquity"": 32.51887597547484, ""profitMargins"": 0.17026692926081538, ""revenueGrowth"": 0.14497188314056536, ""dividendYield"": 0.01897348226530482, ""beta"": 1.1079001692237447}"

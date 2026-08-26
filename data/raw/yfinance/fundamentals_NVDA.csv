@@ -1,0 +1,2 @@
+ticker,extracted_at,data
+NVDA,2026-08-22T00:00:00,"{""marketCap"": 65146831742.04025, ""trailingPE"": 17.415680803985538, ""forwardPE"": 20.969108387285893, ""priceToBook"": 1.118234260334868, ""returnOnEquity"": 0.05768207485734193, ""debtToEquity"": 24.639233555395634, ""profitMargins"": 0.17407978917567843, ""revenueGrowth"": 0.0641046210167797, ""dividendYield"": 0.022601053068225387, ""beta"": 1.85223613173023}"
