@@ -1,0 +1,4 @@
+,Hit_Rate,Sharpe,Sortino,Max_Drawdown
+Logistic Regression,0.467,-1.7137,-2.5776,-0.3285
+Random Forest,0.416,-2.0714,-3.1377,-0.2932
+XGBoost,0.437,-2.0602,-3.2008,-0.283

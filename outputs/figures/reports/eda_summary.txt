@@ -1,0 +1,6 @@
+rows: 12100
+tickers: 10
+sectors: 5
+date_range: 2022-01-03 to 2026-08-21
+avg_daily_return: 0.00013
+avg_annualized_vol: 0.3259
